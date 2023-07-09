@@ -1,5 +1,6 @@
 # Hello There! 👋
-Welcome to my GitHub profile! I'm Tamalika, an analytics consulting professional with 4.5 years of experience at ZS Associates. I am a data storyteller, passionate about driving business impact and decision-making with data. Hit me up if you want to debate analytics, statistics, machine learning, or any other data-related topics :)
+Welcome to my GitHub profile! I'm Tamalika, an analytics consulting professional with 4.5 years of experience at ZS Associates. I am a data storyteller, passionate about driving business impact and decision-making with data. I recently graduated with a Masters's degree in Business Analytics from the University of California, Davis, and am currently on the lookout for a perfect corporate match. 
+Hit me up if you want to debate analytics, statistics, machine learning, or any other data-related topics :)
 
 ## 📚 Expertise
 - Data analysis and visualization
