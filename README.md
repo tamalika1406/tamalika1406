@@ -1,59 +1,25 @@
 # Hi there! 👋
-
-Welcome to my GitHub profile! I'm Tamalika, passionate about data-driven decision-making & driving business impact for companies that value the power of data  a passionate professional specializing in business analytics, data analytics, and analytical management.
+Welcome to my GitHub profile! I'm Tamalika, an analytics consulting professional with 4.5 years of experience at ZS Associates. I am a data storyteller, passionate about driving business impact and decision-making with data. Hit me up if you want to debate analytics, statistics, machine learning, or any other data-related topics :)
 
 ## 📚 Expertise
-
 - Data analysis and visualization
 - Business intelligence and reporting
 - Statistical modeling and forecasting
 - Machine learning and predictive analytics
 - Data-driven decision making
-
-## 💼 Professional Experience
-
-### Analytical Manager at Company A
-- Led a team of analysts, providing strategic insights and actionable recommendations to drive business growth.
-- Collaborated with cross-functional teams to identify trends, extract meaningful insights, and optimize business processes.
-
-### Data Analyst at Company B
-- Conducted in-depth data analysis, generating reports and visualizations to support decision-making processes.
-- Implemented statistical models and forecasting techniques to predict market trends and optimize business strategies.
-
-## 🚀 Projects
-
-Here are a few noteworthy projects I've worked on:
-
-- [Project 1](link to project): Description of the project, key insights, and outcomes.
-- [Project 2](link to project): Description of the project, key insights, and outcomes.
-- [Project 3](link to project): Description of the project, key insights, and outcomes.
-
-Feel free to explore these projects and provide feedback or suggestions!
-
-## 📊 Data Visualization
-
-I believe in the power of visual storytelling. Check out some interactive data visualizations I've created using various tools and libraries:
-
-- [Visualization 1](link to visualization)
-- [Visualization 2](link to visualization)
-- [Visualization 3](link to visualization)
+- Sales Strategy Consulting (Requirements, Solution Design, Planning & Operations)
 
 ## 🌱 Learning and Growth
-
 Continuous learning is crucial in the field of analytics. Here are some topics I'm currently exploring:
-
 - Natural Language Processing (NLP)
 - Advanced Machine Learning techniques
-- Data Engineering and Big Data processing
+- Big Data processing
 
 ## 📫 Let's Connect!
-
 I'm always excited to collaborate and connect with like-minded professionals. Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](link to LinkedIn profile)
-- Email: [Your Email Address](mailto:youremail@example.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: https://www.linkedin.com/in/tamalika14/![image](https://github.com/tamalika1406/tamalika1406/assets/20097878/706c9f73-9464-4d11-8b9d-5cce09b1cd3d)
+- Email: [Your Email Address](mailto:tamalika.basu.14@gmail.com)
 
-Don't hesitate to get in touch if you have any questions, project proposals, or just want to have a chat about analytics!
-
+Don't hesitate to get in touch if you have any questions, or project proposals, or just want to have a chat about analytics!
 Let's unlock the power of data together! 📊✨
